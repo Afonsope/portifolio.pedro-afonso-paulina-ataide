@@ -5,7 +5,7 @@ Bem-vindo ao meu portfólio profissional! Este projeto tem como objetivo apresen
 
 ## 🌐 Acesse
 
-Você pode visualizar o portfólio diretamente [clicando aqui](#).
+Você pode visualizar o portfólio diretamente [clicando aqui](https://afonsope.github.io/portifolio.pedro-afonso-paulina-ataide/).
 
 ---
 
